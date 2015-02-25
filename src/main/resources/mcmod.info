@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spajkadds",
+  "name": "Spajk Addons",
+  "description": "no have idea for description",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Spajkowiecki"],
+  "credits": "Code & Graphics: Spajkowiecki",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
