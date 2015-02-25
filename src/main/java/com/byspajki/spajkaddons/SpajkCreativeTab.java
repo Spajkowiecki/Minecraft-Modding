@@ -16,7 +16,6 @@ public class SpajkCreativeTab extends CreativeTabs
     public SpajkCreativeTab() 
     {
         super(SpajkAddons.MODID);
-        GameRegistry.registerItem(icon, SpajkAddons.MODID+":RedDiamondBlock");
     }
 
     @Override

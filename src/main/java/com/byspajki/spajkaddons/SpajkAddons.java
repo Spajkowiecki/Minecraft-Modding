@@ -5,7 +5,6 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 
-import com.byspajki.spajkaddons.BlockRegistration;
 import com.byspajki.spajkaddons.core.blocks.RedDiamondOre;
 
 import cpw.mods.fml.common.Mod;
